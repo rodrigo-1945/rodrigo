@@ -3,7 +3,7 @@
 - 📚 Estou estudando para me tornar um dev full stack 
 - 📫 E-mail: rodrigonascimentogja@gmail.com
 - 😄 Pronouns: Ele/Dele
-- 💡 A persistência é o caminho do êxito.
+- 💡 O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis..
 <div align="center">
   <a href="https://github.com/rodrigo-1945">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-1945&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
