@@ -16,7 +16,6 @@
   <img align="center" alt="Rodrigo-1945-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrigo-1945-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrigo-1945-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <a href="https://app.daily.dev/Nascimento1945"><img src="https://api.daily.dev/devcards/15ea42fcdf6443fc8b594d212e2511e9.png?r=xpd" width="400" alt="Rodrigo's Dev Card"/></a>
 </div>
   
   ##
