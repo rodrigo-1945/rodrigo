@@ -1,4 +1,5 @@
-![github-header-image](https://user-images.githubusercontent.com/100863769/171006488-233d07a3-565d-4dc4-92b3-a68db54882f8.png)
+![github-header-image](![github-header-image](https://user-images.githubusercontent.com/100863769/173135809-4dda1da2-aaed-494d-a5a0-ef30b3623026.png)
+
 
 ### Hello World 👋
 - 📚 Estou estudando para me tornar um dev Back-end 
