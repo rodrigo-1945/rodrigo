@@ -1,8 +1,9 @@
-![github-header-image](https://user-images.githubusercontent.com/100863769/173135809-4dda1da2-aaed-494d-a5a0-ef30b3623026.png)
+![5_ferramentas_em_alta_para_desenvolvedores_React (3)](https://user-images.githubusercontent.com/100863769/178617766-a450b209-1934-4d95-9506-73da7a73417a.png)
 
 
-### Hello World 👋
-- 📚 Estou estudando para me tornar um dev Back-end 
+
+### Hello World 👋🏾
+- 📚 Estou estudando para me tornar um dev Full-stack 
 - 📫 E-mail: rodrigonascimentogja@gmail.com
 - 😄 Pronouns: Ele/Dele
 - 💡 Move fast and break parameters.🚀
