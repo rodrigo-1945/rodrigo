@@ -3,7 +3,7 @@
 
 
 ### Hello World 👋🏾
-- 📚 Estou estudando para me tornar um dev Full-stack 
+- 📚 Estou estudando para me tornar um dev Front-end 
 - 📫 E-mail: rodrigonascimentogja@gmail.com
 - 😄 Pronouns: Ele/Dele
 - 💡 Move fast and break parameters.🚀
@@ -17,7 +17,8 @@
   <img align="center" alt="Rodrigo-1945-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rodrigo-1945-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Rodrigo-1945-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rodrigo-1945-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Rodrigo-1945-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">       
+  <img align="center" alt="Rodrigo-1945-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
